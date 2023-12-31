@@ -19,7 +19,7 @@ int main(int argc, char **argv)
         {
             continue;
         }
-        solved_counter = hidden_singles(board); // Using the hidden singles solving algorithm
+        solved_counter = hidden_singles(board); 
         if (solved_counter)
         {
             continue;
