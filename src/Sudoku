@@ -1,5 +1,5 @@
 #include "sudoku.h"
-#include "hidden_singles.h" // Assuming hidden_singles.h contains the solving algorithm
+#include "hidden_singles.h"
 
 int main(int argc, char **argv)
 {
